@@ -1,0 +1,9 @@
+.dashboard-list-with-user {
+    max-height: 500px !important;
+}
+.library-app .drop-area, .select-from-library-container .drop-area {
+    min-height: 493px !important;
+}
+.img-circle {
+    border-radius: 50% !important;
+}

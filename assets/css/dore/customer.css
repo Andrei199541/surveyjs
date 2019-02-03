@@ -1,0 +1,6 @@
+
+.user-info .row div input, .user-info .row div select {
+    width: 230px;
+    height: 30px;
+    float: right;
+}

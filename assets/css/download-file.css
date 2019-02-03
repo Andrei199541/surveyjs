@@ -1,0 +1,14 @@
+.file-download-path {
+    display: none;
+    position: absolute;
+    right: 30px;
+    bottom: 10%;
+    width: 120px;
+    height: 30px;
+    border: 1px solid #1ab394;
+    background: white;
+    z-index: 100;
+}
+#select_file {
+    height: 30px;
+}
